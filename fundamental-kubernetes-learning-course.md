@@ -8,8 +8,8 @@ This one day course serves as a crash course to learn the basics of Kubernetes t
 
 ## The fundamental Kubernetes Learning Course
 
-The course is organized in 5 sections:  
-  
+The course is organized in 5 sections:
+
 1. Kubernetes architecture and deployment scenarios \(local, cloud, bare metal, etc..\)
 
 2. Kubernetes primitives and API
@@ -40,9 +40,7 @@ K8s API
 
 Kubectl tips and tricks \(i.e proxy, port-forward, exec, logs\)
 
-Introduction toHelm & Draft
+Introduction to **Helm & Draft**
 
 Introduction to k8s dashboard
-
-
 
