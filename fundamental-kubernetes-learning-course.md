@@ -1,4 +1,8 @@
-# Description
+# Fundamental Kubernetes Learning Course
+
+---
+
+# About Kubernetes
 
 Kubernetes is an open source orchestration system for container based distributed applications. Originally created by Google based on principles from its internal orchestration system \(e.g Borg\), Kubernetes is now developed on GitHub, it provides several level of fault-tolerance, scalability and useful primitives that go beyond the single container concept.
 
@@ -44,9 +48,7 @@ Introduction to **Helm & Draft**
 
 Introduction to k8s dashboard
 
-## How to attend?  
+## How to attend?
 
 The trainings will be announced on our [meetup page](https://www.meetup.com/kubernauts/) and on [kubernuats.io](https://kubernauts.io) site.
-
-
 
