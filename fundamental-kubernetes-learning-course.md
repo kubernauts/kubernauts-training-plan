@@ -44,3 +44,9 @@ Introduction to **Helm & Draft**
 
 Introduction to k8s dashboard
 
+---
+
+## How to attend?  The trainings will be announced on our [meetup page](https://www.meetup.com/kubernauts/) and on [kubernuats.io](https://kubernauts.io) site.
+
+
+
