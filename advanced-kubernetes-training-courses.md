@@ -20,7 +20,7 @@ Kubernetes on OTC
 
 Kubernetes on OpenStack
 
-Kubernetes in Kubernetes \(via Kubeception\)
+Kubernetes in Kubernetes \(aka Kubeception\)
 
 Learn Machine Learning on Kubernetes
 
