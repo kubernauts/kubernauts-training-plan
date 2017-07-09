@@ -1,5 +1,7 @@
 # Fundamental Kubernetes Learning Course
 
+Instructor: AK
+
 ---
 
 # About Kubernetes
