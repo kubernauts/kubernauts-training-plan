@@ -1,5 +1,7 @@
 # Kubernauts Training
 
+---
+
 The [Kubernauts](https://kubernauts.io/) is a non-profit initiative that offers free training for [Kubernetes](https://kubernetes.io) and [Cloud Native](https://www.cncf.io) technologies.
 
 Our mission is to create and drive adoption of both Kubernetes and Cloud Native Thinking / Strategy.  Thus, helping DevOps teams to be more productive and successful. We believe that through training and community based activities we can help to foster Kubernetes and Cloud Native adoption.

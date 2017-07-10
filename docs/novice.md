@@ -1,5 +1,7 @@
 # Novice
 
+---
+
 The **novice** training is designed to help a learner understand the fundamentals of Kubernetes and its associated ecosystem.  The content is predominately composed of feely available resources that have been vetted for the following attributes.
 
 | Attribute    | Description                                  |

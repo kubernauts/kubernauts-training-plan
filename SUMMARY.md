@@ -1,6 +1,6 @@
 # Summary
 
-## Overview
+### Overview
 
 * [Introduction](README.md)
 * [Materials](docs/materials.md)
@@ -12,20 +12,20 @@
 * [Roadmap](docs/roadmap.md)
 
 
-## Novice
+### Novice
 
 * [Fundamental Kubernetes Learning Course](courses/novice/fundamental-kubernetes-learning-course.md)
 
-## Proficient
+### Proficient
 
 * [Advanced Kubernetes Training Courses](courses/proficient/advanced-kubernetes-training-courses.md)
 
-## Expert
+### Expert
 
-## Master
+### Master
 
 * [Metrics](courses/master/metrics.md)
 
-## Reference
+### Reference
 
 * [Kubernetes Learning Resources](reference/kubernetes-learning-resources.md)
