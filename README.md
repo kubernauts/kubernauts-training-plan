@@ -6,6 +6,8 @@ Our mission is to create and drive adoption of both Kubernetes and Cloud Native 
 
 Our training provides a clear, structured path that if followed will help the learner to understand the fundmantals of Kubernetes and Cloud Native technologies. Continuing on until they are at the  level of a professional consultant.
 
+> We blow the wind beneath your Kubernetes wings!
+
 Please see the [Kubernauts Charter](https://kubernauts.io/en/kubernauts-charter.html) for more information about our mission.
 
 
