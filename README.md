@@ -23,7 +23,7 @@ If a learner is beginning from scratch on their Kubernetes and Cloud Native jour
 
 The learner will then move onto the [proficient](docs/proficient.md) level.
 
-Now that the learner has a solid foundation they can work towards the [**CNCF Certified Kubernetes Administrator (CKA)** exam](https://github.com/cncf/curriculum/blob/master/certified_kubernetes_administrator_exam_V0.9.pdf) at the [expert](docs/expert.md) level.  
+Now that the learner has a solid foundation they can work towards the [**CNCF Certified Kubernetes Administrator (CKA)**](https://github.com/cncf/curriculum/blob/master/certified_kubernetes_administrator_exam_V0.9.pdf) exam at the [expert](docs/expert.md) level.  
 
 And in parallel they can work towards the **Certified Kubernauts.io Practioner (CKP)** exam at the [master](docs/master.md) level.  It is a prerequisite that the learner has  passed the CKA exam before taking the CKP exam.
 

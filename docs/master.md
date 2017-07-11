@@ -2,7 +2,7 @@
 
 ---
 
-At the **master** level the learner can select from many **advanced domain specific training** courses.  To pass the **Kubernauts** exam and become a **Certified Kubernauts.io Practioner** the learner must pass five tests selected from the advanced domains.
+At the **master** level the learner can select from many **advanced domain specific training** courses.  To pass the **Kubernauts** exam and become a **Certified Kubernauts.io Practioner (CKP)** the learner must pass five tests selected from the advanced domains.
 
 <img src="images/master.png" alt="blank" width="765"/>
 
