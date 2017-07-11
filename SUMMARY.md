@@ -9,7 +9,6 @@
 * [Expert](docs/expert.md)
 * [Master](docs/master.md)
 * [Community](docs/community.md)
-* [Roadmap](docs/roadmap.md)
 
 
 ### Novice
