@@ -6,7 +6,7 @@ The [Kubernauts](https://kubernauts.io/) is a non-profit initiative that offers 
 
 Our mission is to create and drive adoption of both Kubernetes and Cloud Native Thinking / Strategy.  Thus, helping DevOps teams to be more productive and successful. We believe that through training and [community](docs/community.md) based activities we can help to foster Kubernetes and Cloud Native adoption.
 
-Our training provides a clear, structured path that if followed will help the learner to understand the fundmantals of Kubernetes and Cloud Native technologies. Continuing on until they are at the  level of a professional consultant.
+Our training provides a clear, structured path that if followed will help the learner to understand the fundamentals of Kubernetes and Cloud Native technologies. Continuing on until they are at the  level of a professional consultant.
 
 > We blow the wind beneath your Kubernetes wings!
 
