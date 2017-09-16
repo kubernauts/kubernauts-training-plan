@@ -1,4 +1,4 @@
-# Kubernauts Training
+# Kubernauts Training Plan
 
 ---
 
